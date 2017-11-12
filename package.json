@@ -1,0 +1,26 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Hacking the gibson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryankurte/test-repo.git"
+  },
+  "keywords": [
+    "hacks",
+    "malicious"
+  ],
+  "author": "RyanKurte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryankurte/test-repo/issues"
+  },
+  "homepage": "https://github.com/ryankurte/test-repo#readme",
+  "dependencies": {
+    "2spooky4me": "^0.1.2"
+  }
+}
